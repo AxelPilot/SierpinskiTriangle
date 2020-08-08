@@ -9,7 +9,7 @@ public class SierpinskiTest {
         app.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         app.setSize(1200, 1000);
         app.setVisible(true);
-        DrawSierpinksi panel = new DrawSierpinksi();
+        DrawSierpinski panel = new DrawSierpinski();
         app.add(panel);
     }
 }
